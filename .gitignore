@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
+logs/
+.DS_Store
+.vscode/
+.idea/
+
+high_score.json
+docs/gameplay.gif

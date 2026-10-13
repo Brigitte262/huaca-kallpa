@@ -1,0 +1,1 @@
+{'counts': [(70, 1, 1), (70, 1, 1), (70, 1, 1)], 'frame_ms': [17.780911112721597, 17.20262111112889, 17.35292333436923], 'texture_cache': 'CacheInfo(hits=19, misses=7, maxsize=16, currsize=7)'}
